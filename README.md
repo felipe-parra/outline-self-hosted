@@ -1,0 +1,1 @@
+# outline-self-hosted
